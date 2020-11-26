@@ -1,0 +1,9 @@
+#resim {
+    background: url("/img/carousel/2.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 490px;
+}
+#footer {
+    height: auto;
+}
